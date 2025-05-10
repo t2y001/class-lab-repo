@@ -1,5 +1,5 @@
 ## Class Information
-- Name: Heisemberg  
+- Name: Samuel  
 - Certification: Meta Front End Developer  
 
 ## Instructions
